@@ -4,7 +4,7 @@
   "description": "One 2 One videocall",
   "main": "app.js",
   "scripts": {
-    "start": "node server"
+    "start": "node app"
   },
   "author": "Aakash",
   "license": "ISC",
