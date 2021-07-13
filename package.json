@@ -4,7 +4,7 @@
   "description": "One 2 One videocall",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server"
   },
   "author": "Aakash",
   "license": "ISC",
