@@ -7,7 +7,7 @@
 #### The Goal here was to build a Microsoft Teams Clone with Audio/Video Communication for multiple users along with a chat feature that should be present in the meet as well outside meet.
 
 ## Major Features Include:
-    1. Multi-User Video Conferencing
+    1. Two User Video Conferencing
     2. Video/Audio toggle
     3. In Room Chat
 
